@@ -1,6 +1,6 @@
 Please note that I, Vishal Srivastav, have copied the content of CodesBay just for the sake of my knowledge. This concept of smart pointers is quite useful and I will just use them only for study purpose.
 
-The original author of this complete content is Codesbay and here is the link for the same : https://github.com/CodesBay/CplusPlus_SmartPointer
+The original author of this complete content is Codesbay and here is the link for the same : https://github.com/CodesBay/Lambda_Functional_Programming
 
 ------------------------------------------
 
